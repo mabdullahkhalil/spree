@@ -536,7 +536,7 @@ en:
         properties: Properties
         prototypes: Prototypes
         reports: Reports
-        taxonomies: Taxonomies
+        taxonomies: Make Hierarchy
         taxons: Taxons
         users: Users
         return_authorizations: Return Authorizations
