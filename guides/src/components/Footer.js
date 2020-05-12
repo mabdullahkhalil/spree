@@ -44,7 +44,13 @@ const Footer = ({ hasSidebar }) => (
       target="_blank"
       rel="follow"
     >
-     
+      <img
+        src={LogoSrc}
+        height={21}
+        className="dib mh2"
+        alt="Spree Commerce & Ruby on Rails developers"
+        title="Spree Commerce & Ruby on Rails developers"
+      />
     </a>
     <span className="pl2-l bl-l b--light-silver">
       ©{' '}
